@@ -1,0 +1,11 @@
+{
+
+    "username":"sowmiya",
+    "password":"s123",
+    "firstname":"maha",
+    "lastname":"sri",
+    "admin":false,
+    "manager":false,
+    "team_leader":false,
+    "employee":true
+}
